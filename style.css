@@ -51,8 +51,7 @@ body {
   background-color: hsl(263, 55%, 52%);
   justify-content: start;
   justify-content: space-between;
-  background-image: url("../images/bg-pattern-quotation.svg");
-  background-position: right top;
+  z-index: 0;
 }
 
 .profile-container {
